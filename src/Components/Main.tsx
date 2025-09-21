@@ -10,9 +10,10 @@ import dollar from "../img/image-currency.jpg"
 import confetty from "../img/image-confetti.jpg"
 import mockups from "../img/image-restaurant.jpg"
 import plane from "../img/image-plane.jpg"
+import { StaticImageData } from "next/image";
 type Article = {
     id: number;
-    img: any;
+    img: StaticImageData;
     author: string;
     title: string;
     desc: string;
