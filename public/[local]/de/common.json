@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "careers": "Karriere",
+    "button": "Einladung anfordern"
+  },
+  "hero": {
+    "title": "Digitale Bank der nächsten Generation",
+    "desc1": "Bringen Sie Ihr Finanzleben online. Ihr Digitalbank-Konto ist die zentrale Anlaufstelle für Ausgaben und Sparen,",
+    "desc2": "Budgetierung, Investitionen und vieles mehr.",
+    "button": "Einladung anfordern"
+  },
+  "whyChoose": {
+    "title": "Warum Digitalbank wählen?",
+    "desc1": "Wir nutzen Open Banking, um Ihr Bankkonto zu Ihrem Finanzzentrum zu machen.",
+    "desc2": "Kontrollieren Sie Ihre Finanzen wie nie zuvor."
+  },
+  "features": {
+    "online": {
+      "title": "Online-Banking",
+      "desc": "Mit unseren modernen Web- und Mobilanwendungen können Sie Ihre Finanzen weltweit im Blick behalten."
+    },
+    "budgeting": {
+      "title": "Einfache Budgetierung",
+      "desc": "Sehen Sie genau, wohin Ihr Geld jeden Monat geht. Erhalten Sie Benachrichtigungen, wenn Sie Ihr Limit fast erreicht haben."
+    },
+    "onboarding": {
+      "title": "Schnelles Onboarding",
+      "desc": "Keine Filialen nötig. Eröffnen Sie Ihr Konto in wenigen Minuten online und übernehmen Sie sofort die Kontrolle über Ihre Finanzen."
+    },
+    "api": {
+      "title": "Offene API",
+      "desc": "Verwalten Sie Ersparnisse, Investitionen, Rente und vieles mehr in einem einzigen Konto."
+    }
+  },
+  "articles": {
+    "title": "Neueste Artikel"
+  },
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "careers": "Karriere",
+    "support": "Support",
+    "privacy": "Datenschutzrichtlinie",
+    "button": "Einladung anfordern",
+    "rights": "© Digitalbank. Alle Rechte vorbehalten"
+  }
+}

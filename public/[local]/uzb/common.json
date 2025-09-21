@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "blog": "Blog",
+    "careers": "Karyera",
+    "button": "Taklif so‘rash"
+  },
+  "hero": {
+    "title": "Keyingi avlod raqamli banki",
+    "desc1": "Moliyaviy hayotingizni onlayn tarzda boshqaring. Digitalbank hisobingiz – sarflash va tejash uchun yagona markaz,",
+    "desc2": "byudjet tuzish, investitsiya qilish va yana ko‘p imkoniyatlar bilan.",
+    "button": "Taklif so‘rash"
+  },
+  "whyChoose": {
+    "title": "Nega Digitalbankni tanlash kerak?",
+    "desc1": "Biz Open Banking texnologiyasidan foydalanib, hisobingizni moliyaviy markazga aylantiramiz.",
+    "desc2": "Moliyalaringizni hech qachon bo‘lmagandek boshqaring."
+  },
+  "features": {
+    "online": {
+      "title": "Onlayn Banking",
+      "desc": "Zamonaviy veb va mobil ilovalarimiz bilan dunyoning istalgan joyidan moliyangizni kuzatib boring."
+    },
+    "budgeting": {
+      "title": "Oddiy byudjet",
+      "desc": "Oylik mablag‘laringizni kuzating va limitlarga yaqinlashganingizda ogohlantirish oling."
+    },
+    "onboarding": {
+      "title": "Tezkor ro‘yxatdan o‘tish",
+      "desc": "Filiallarga borish shart emas. Hisobni bir necha daqiqada onlayn oching va darhol moliyalaringizni boshqaring."
+    },
+    "api": {
+      "title": "Ochiq API",
+      "desc": "Tejash, investitsiya, pensiya va yana ko‘p narsalarni yagona hisobdan boshqaring."
+    }
+  },
+  "articles": {
+    "title": "So‘nggi maqolalar"
+  },
+  "footer": {
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "blog": "Blog",
+    "careers": "Karyera",
+    "support": "Yordam",
+    "privacy": "Maxfiylik siyosati",
+    "button": "Taklif so‘rash",
+    "rights": "© Digitalbank. Barcha huquqlar himoyalangan"
+  }
+}

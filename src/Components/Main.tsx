@@ -91,7 +91,7 @@ function Main() {
                             </div>
 
                             <div className='grid  md:grid-cols-4 grid-cols-1 gap-10 mt-10 '>
-                                <div className='flex flex-col md:items-start items-center text-center  gap-4'>
+                                <div className='flex flex-col md:items-start items-center   gap-4'>
                                     <Image src={online} alt="Online Banking" className='' />
                                     <h3 className='text-2xl font-semibold text-[#575870]'>Online Banking</h3>
                                     <p className='text-gray-500 text-[18px]'>
@@ -100,7 +100,7 @@ function Main() {
                                     </p>
                                 </div>
 
-                                <div className='flex flex-col md:items-start items-center text-center  gap-4'>
+                                <div className='flex flex-col md:items-start items-center   gap-4'>
                                     <Image src={budgeting} alt="Simple Budgeting" className='' />
 
                                     <h3 className='text-2xl font-semibold text-[#575870]'>Simple Budgeting</h3>
@@ -110,7 +110,7 @@ function Main() {
                                     </p>
                                 </div>
 
-                                <div className='flex flex-col md:items-start items-center text-center  gap-4'>
+                                <div className='flex flex-col md:items-start items-center   gap-4'>
                                     <Image src={onboarding} alt="Fast Onboarding" className='' />
                                     <h3 className='text-2xl font-semibold text-[#575870]'>Fast Onboarding</h3>
                                     <p className='text-gray-500 text-[18px]'>
@@ -119,7 +119,7 @@ function Main() {
                                     </p>
                                 </div>
 
-                                <div className='flex flex-col md:items-start items-center text-center  gap-4'>
+                                <div className='flex flex-col md:items-start items-center   gap-4'>
                                     <Image src={gn} alt="Open API" className='' />
                                     <h3 className='text-2xl font-semibold text-[#575870]'>Open API</h3>
                                     <p className='text-gray-500 text-[18px]'>
