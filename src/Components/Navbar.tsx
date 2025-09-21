@@ -8,7 +8,7 @@ export default function Navbar() {
                 <div className="big-container  p-7">
                     <nav className="container  flex justify-between items-center">
                         <Image src={logo} alt="logo"></Image>
-                        <ul className="flex gap-5">
+                        <ul className="md:flex gap-5 hidden">
                             <li className="font-bold text-gray-400">Home</li>
                             <li className="font-bold text-gray-400">About</li>
                             <li className="font-bold text-gray-400">Contact</li>
